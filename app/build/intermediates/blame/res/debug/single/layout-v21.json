@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

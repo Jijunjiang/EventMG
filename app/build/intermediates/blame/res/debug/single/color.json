@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/apple/.android/build-cache/933806a42ea35251b1f8b48cdd82791747a57881/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/apple/.android/build-cache/1e0ee7f3c362ca3a83e35a34f62df9561533eb57/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/apple/.android/build-cache/933806a42ea35251b1f8b48cdd82791747a57881/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/apple/.android/build-cache/1e0ee7f3c362ca3a83e35a34f62df9561533eb57/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]

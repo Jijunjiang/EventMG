@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20231565214",
+    "firebase_url": "https://eventmg-8cac3.firebaseio.com",
+    "project_id": "eventmg-8cac3",
+    "storage_bucket": "eventmg-8cac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20231565214:android:aaab32bbb9be32d8",
+        "android_client_info": {
+          "package_name": "jijun.eventmg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20231565214-403hrra8b19ujvk02nl31kqt3akbf3pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAUO5pecKj6s8YA4TLiO3XdR67R5sM3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

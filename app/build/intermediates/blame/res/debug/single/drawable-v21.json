@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/apple/.android/build-cache/7ed726d5eb151a36a26ea3c3ed3049d17c93cc0f/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

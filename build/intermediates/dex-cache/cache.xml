@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/a90e21d0617d4f2910048779524b0acdbeba9cb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_137bc7fbedad5996d60b627735bc5e602a41b5fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/1268d83f6c8d43a0416e34767619455f09d165d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92e3a408c991823b14cb2452e3126e0809ec6634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="555975ca99d0258be59f762d35ea2b6675799721">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaaac66b4b199bf195e83a0bda859991937923df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc3d4b4d1826e882ac6d8e4c5fce48ad158e148d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/09edd73ae0e7aad884c0bbbc10182192883d2cbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f695c9a4272cf3ec33d9cae3e6a4524fada49ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c587da2139f0862315198e4c44e83b5440646f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/apple/Desktop/laiProject/android2/EventMG/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e14861da946ca0d4d7e9a4cac5a9cb7fa306c39d/classes.dex" />
+    </item>
+
+</items>
